@@ -95,6 +95,12 @@
                             newpoints.push(result.x);
                             newpoints.push(result.y);
                             newpoints.push(result.y);
+                            newpoints.push(null);
+                            newpoints.push(null);
+                            newpoints.push(null);
+                            threspoints.push(null);
+                            threspoints.push(null);
+                            threspoints.push(null);
                             threspoints.push(result.x);
                             threspoints.push(result.y);
                             threspoints.push(result.y);
